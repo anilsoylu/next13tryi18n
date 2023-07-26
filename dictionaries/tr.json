@@ -1,0 +1,11 @@
+{
+  "server-component": {
+    "welcome": "Hoş geldiniz"
+  },
+  "counter": {
+    "increment": "Artır",
+    "decrement": "Azalt"
+  },
+  "about": "Hakkında",
+  "home": "Ana Sayfa"
+}
